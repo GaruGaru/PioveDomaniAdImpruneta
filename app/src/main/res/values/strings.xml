@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Piove Domani Ad Impruneta</string>
+
+    <string name="yes">SI</string>
+    <string name="no">NO</string>
+    <string name="idk">BOH</string>
+
+    <string name="openweather_api_key" translatable="false">51505d650858e27f71cdb4209bd77a8b</string>
+
+    <string name="city_name" translatable="false">impruneta</string>
+</resources>
